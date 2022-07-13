@@ -1,5 +1,3 @@
 # Leetcodoe Practicing
-
-participants:
-* Kun-Lin, Ho
-* Yen-Chia, Chen
+## Progress for Kun-Lin, Ho
+* 0001
